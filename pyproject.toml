@@ -1,9 +1,0 @@
-[project]
-name = "rnn-translator"
-version = "1.0.0"
-description = "English-French translator using Many-to-Many RNN"
-requires-python = ">=3.11,<3.13"
-
-[build-system]
-requires = ["setuptools>=45", "wheel"]
-build-backend = "setuptools.build_meta"
